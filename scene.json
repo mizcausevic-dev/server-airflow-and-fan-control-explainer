@@ -11,7 +11,7 @@
       "glyph": "graph",
       "label": "Server inlets components",
       "role": "path",
-      "x": 0.12,
+      "x": 0.14,
       "y": 0.32
     },
     {
@@ -19,7 +19,7 @@
       "glyph": "fan",
       "label": "Fans",
       "role": "path",
-      "x": 0.373,
+      "x": 0.38,
       "y": 0.32
     },
     {
@@ -27,7 +27,7 @@
       "glyph": "sensor",
       "label": "Temperature sensing",
       "role": "sense",
-      "x": 0.627,
+      "x": 0.62,
       "y": 0.32
     },
     {
@@ -35,7 +35,7 @@
       "glyph": "fan",
       "label": "Fan command",
       "role": "path",
-      "x": 0.88,
+      "x": 0.86,
       "y": 0.32
     },
     {
@@ -43,32 +43,32 @@
       "glyph": "duct",
       "label": "Airflow",
       "role": "path",
-      "x": 0.2,
-      "y": 0.68
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "duct",
       "label": "Pressure resistance",
       "role": "energy",
-      "x": 0.413,
-      "y": 0.68
+      "x": 0.38,
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "heat",
       "label": "Heat",
       "role": "energy",
-      "x": 0.627,
-      "y": 0.68
+      "x": 0.62,
+      "y": 0.7
     },
     {
       "id": "n8",
       "glyph": "balance",
       "label": "Electrical power balance",
       "role": "energy",
-      "x": 0.84,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
