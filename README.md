@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/server-airflow-and-fan-control-explainer/
 
+Repository: https://github.com/mizcausevic-dev/server-airflow-and-fan-control-explainer
+
 ## What this is
 
 An interactive anatomy plate for Server Airflow and Fan Control. Play, scrub, or jump the five stages. The same frame always draws the same picture.
